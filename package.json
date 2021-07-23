@@ -1,6 +1,6 @@
 {
-  "name": "@salesforce/eslint-config-lwc",
-  "version": "2.1.0",
+  "name": "@alucidwolf/x7s-eslint-parser",
+  "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "description": "Opinionated ESLint configurations for LWC projects",
